@@ -1,0 +1,282 @@
+[
+  {
+    "id": 1,
+    "isPopular": true,
+    "propertyRate": "2095",
+    "propertyType": "Apartment",
+    "propertyImage": "https://images.pexels.com/photos/280222/pexels-photo-280222.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "propertyName": "Palm Harbor",
+    "propertyAddress": "2699 Green Valley, Highland Lake, FL",
+    "propertyDetails": {
+      "beds": 3,
+      "bathrooms": 2,
+      "size": "5x7"
+    }
+  },
+  {
+    "id": 2,
+    "isPopular": true,
+    "propertyRate": "2700",
+    "propertyType": "Lounge",
+    "propertyImage": "https://images.pexels.com/photos/106399/pexels-photo-106399.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "propertyName": "Beverly SpringField",
+    "propertyAddress": "17157 Thompson Parkway, Rongxing Lake, CN",
+    "propertyDetails": {
+      "beds": 3,
+      "bathrooms": 2,
+      "size": "5x7"
+    }
+  },
+  {
+    "id": 3,
+    "isPopular": true,
+    "propertyRate": "1850",
+    "propertyType": "House",
+    "propertyImage": "https://images.pexels.com/photos/1396132/pexels-photo-1396132.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "propertyName": "Faulkner Ave",
+    "propertyAddress": "43576 Morning Road, Orleans Lake, PA",
+    "propertyDetails": {
+      "beds": 3,
+      "bathrooms": 2,
+      "size": "5x7"
+    }
+  },
+  {
+    "id": 4,
+    "isPopular": false,
+    "propertyRate": "1200",
+    "propertyType": "House",
+    "propertyImage": "https://images.pexels.com/photos/206172/pexels-photo-206172.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "propertyName": "Moore Ave",
+    "propertyAddress": "44 Erie Alley, Highland Pond, IN",
+    "propertyDetails": {
+      "beds": 3,
+      "bathrooms": 2,
+      "size": "5x7"
+    }
+  },
+  {
+    "id": 5,
+    "isPopular": false,
+    "propertyRate": "9900",
+    "propertyType": "Apartment",
+    "propertyImage": "https://images.pexels.com/photos/210617/pexels-photo-210617.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "propertyName": "Beverly Towne",
+    "propertyAddress": "70548 Hayes Parkway, Rongxing Pond, JP",
+    "propertyDetails": {
+      "beds": 3,
+      "bathrooms": 2,
+      "size": "5x7"
+    }
+  },
+  {
+    "id": 6,
+    "isPopular": false,
+    "propertyRate": "6800",
+    "propertyType": "Lounge",
+    "propertyImage": "https://images.pexels.com/photos/259588/pexels-photo-259588.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "propertyName": "Palm Cermin",
+    "propertyAddress": "1390 Luster Point, Orleans Lake, US",
+    "propertyDetails": {
+      "beds": 3,
+      "bathrooms": 2,
+      "size": "5x7"
+    }
+  },
+  {
+    "id": 7,
+    "isPopular": false,
+    "propertyRate": "3150",
+    "propertyType": "House",
+    "propertyImage": "https://images.pexels.com/photos/164558/pexels-photo-164558.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "propertyName": "Moore Harbor",
+    "propertyAddress": "56 Towne Park, Highland Well, UK",
+    "propertyDetails": {
+      "beds": 3,
+      "bathrooms": 2,
+      "size": "5x7"
+    }
+  },
+  {
+    "id": 8,
+    "isPopular": false,
+    "propertyRate": "3095",
+    "propertyType": "House",
+    "propertyImage": "https://images.pexels.com/photos/101808/pexels-photo-101808.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "propertyName": "Palm Harbor",
+    "propertyAddress": "390 Dakota Circle, Rongxing Well, CH",
+    "propertyDetails": {
+      "beds": 3,
+      "bathrooms": 2,
+      "size": "5x7"
+    }
+  },
+  {
+    "id": 9,
+    "isPopular": false,
+    "propertyRate": "3095",
+    "propertyType": "Apartment",
+    "propertyImage": "https://images.pexels.com/photos/3288103/pexels-photo-3288103.png?auto=compress&cs=tinysrgb&w=600",
+    "propertyName": "Friesen Harbor",
+    "propertyAddress": "43674 Oak Valley Junction, Orleans Well, FL",
+    "propertyDetails": {
+      "beds": 3,
+      "bathrooms": 2,
+      "size": "5x7"
+    }
+  },
+  {
+    "id": 10,
+    "isPopular": false,
+    "propertyRate": "6900",
+    "propertyType": "House",
+    "propertyImage": "https://images.pexels.com/photos/206172/pexels-photo-206172.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "propertyName": "Haag Metz",
+    "propertyAddress": "38642 Nevada Park, Pampas Lake, FL",
+    "propertyDetails": {
+      "beds": 3,
+      "bathrooms": 2,
+      "size": "5x7"
+    }
+  },
+  {
+    "id": 11,
+    "isPopular": false,
+    "propertyRate": "4410",
+    "propertyType": "House",
+    "propertyImage": "https://images.pexels.com/photos/3288100/pexels-photo-3288100.png?auto=compress&cs=tinysrgb&w=600",
+    "propertyName": "Jacobs Cremin",
+    "propertyAddress": "10 Union Hill, Pampas Pond, JP",
+    "propertyDetails": {
+      "beds": 3,
+      "bathrooms": 2,
+      "size": "5x7"
+    }
+  },
+  {
+    "id": 12,
+    "isPopular": false,
+    "propertyRate": "7900",
+    "propertyType": "House",
+    "propertyImage": "https://images.pexels.com/photos/280222/pexels-photo-280222.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "propertyName": "Palm Harbor",
+    "propertyAddress": "95 Stuart Lane, Pampas Well, RU",
+    "propertyDetails": {
+      "beds": 3,
+      "bathrooms": 2,
+      "size": "5x7"
+    }
+  },
+  {
+    "id": 13,
+    "isPopular": false,
+    "propertyRate": "3515",
+    "propertyType": "Lounge",
+    "propertyImage": "https://images.pexels.com/photos/210617/pexels-photo-210617.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "propertyName": "Zieme Harbor",
+    "propertyAddress": "465 Dawn Pass, Vila Lake, PT",
+    "propertyDetails": {
+      "beds": 3,
+      "bathrooms": 2,
+      "size": "5x7"
+    }
+  },
+  {
+    "id": 14,
+    "isPopular": false,
+    "propertyRate": "1410",
+    "propertyType": "Apartment",
+    "propertyImage": "https://images.pexels.com/photos/259588/pexels-photo-259588.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "propertyName": "Haag Group",
+    "propertyAddress": "3 Kropf Court, Vila Pond, US",
+    "propertyDetails": {
+      "beds": 3,
+      "bathrooms": 2,
+      "size": "5x7"
+    }
+  },
+  {
+    "id": 15,
+    "isPopular": false,
+    "propertyRate": "5410",
+    "propertyType": "Lounge",
+    "propertyImage": "https://images.pexels.com/photos/101808/pexels-photo-101808.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "propertyName": "Predovic Jones",
+    "propertyAddress": "77730 Lake View Circle, Vila Well, UK",
+    "propertyDetails": {
+      "beds": 3,
+      "bathrooms": 2,
+      "size": "5x7"
+    }
+  },
+  {
+    "id": 16,
+    "isPopular": false,
+    "propertyRate": "2490",
+    "propertyType": "Lounge",
+    "propertyImage": "https://images.pexels.com/photos/1396132/pexels-photo-1396132.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "propertyName": "Zieme Group",
+    "propertyAddress": "1632 Eagle Crest Trail, Orleans Lake, FL",
+    "propertyDetails": {
+      "beds": 3,
+      "bathrooms": 2,
+      "size": "5x7"
+    }
+  },
+  {
+    "id": 17,
+    "isPopular": false,
+    "propertyRate": "3010",
+    "propertyType": "House",
+    "propertyImage": "https://images.pexels.com/photos/164558/pexels-photo-164558.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "propertyName": "Daugherty Gutkowski",
+    "propertyAddress": "708 Milwaukee Park, Rongxing Lake, PE",
+    "propertyDetails": {
+      "beds": 3,
+      "bathrooms": 2,
+      "size": "5x7"
+    }
+  },
+  {
+    "id": 18,
+    "isPopular": false,
+    "propertyRate": "990",
+    "propertyType": "Lounge",
+    "propertyImage": "https://images.pexels.com/photos/3288100/pexels-photo-3288100.png?auto=compress&cs=tinysrgb&w=600",
+    "propertyName": "Friesen Bergnaum",
+    "propertyAddress": "86079 American Ash Center, Pampas Lake, FR",
+    "propertyDetails": {
+      "beds": 3,
+      "bathrooms": 2,
+      "size": "5x7"
+    }
+  },
+  {
+    "id": 19,
+    "isPopular": false,
+    "propertyRate": "8410",
+    "propertyType": "Apartment",
+    "propertyImage": "https://images.pexels.com/photos/210617/pexels-photo-210617.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "propertyName": "Prohaska LLC",
+    "propertyAddress": "458 Elmside Parkway, Highland Pond, FR",
+    "propertyDetails": {
+      "beds": 3,
+      "bathrooms": 2,
+      "size": "5x7"
+    }
+  },
+  {
+    "id": 20,
+    "isPopular": false,
+    "propertyRate": "2915",
+    "propertyType": "House",
+    "propertyImage": "https://images.pexels.com/photos/206172/pexels-photo-206172.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "propertyName": "Moore Towne",
+    "propertyAddress": "1 Randy Lane, Vila Pond, IN",
+    "propertyDetails": {
+      "beds": 3,
+      "bathrooms": 2,
+      "size": "5x7"
+    }
+  }
+]
